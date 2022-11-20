@@ -1,1 +1,1 @@
-# alx is an amazing online school
+alx is an amazing online school
